@@ -42,13 +42,13 @@
 
 I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 
-- :telescope: I love teaching on software engineering students as well as writing software .
+:telescope: I love teaching on software engineering students as well as writing software .
 
-- :seedling: Exploring Technical Content Writing.
+:seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I like to deal with various aspects of cybersecurity
+:zap: In my free time I like to deal with various aspects of cybersecurity
 
-- :mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mario.zahariev.9)
+:mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mario.zahariev.9)
 
 ---
 
@@ -60,4 +60,4 @@ I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/
 ---
 
 ### :writing_hand: My Facebook Page - Python Dev Society :
-- [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/PythonDevSociety)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/PythonDevSociety)
