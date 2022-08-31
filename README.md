@@ -48,7 +48,7 @@ I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/
 
 - :zap: In my free time I like to deal with various aspects of cybersecurity
 
-- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mario.zahariev.9)
+- :mailbox:How to reach me:   [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mario.zahariev.9)
 
 ---
 
