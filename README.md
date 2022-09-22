@@ -44,7 +44,7 @@ I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/
 
 :telescope: I love teaching on software engineering students as well as writing software .
 
-:seedling: Exploring Technical Content Writing.
+:seedling: Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety).
 
 :zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
 
