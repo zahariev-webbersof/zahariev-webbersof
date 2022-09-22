@@ -46,7 +46,7 @@ I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/
 
 :seedling: Exploring Technical Content Writing.
 
-:zap: In my free time I like to deal with various aspects of cybersecurity
+:zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
 
 :mailbox:You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
 
