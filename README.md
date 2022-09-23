@@ -1,6 +1,29 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"/>
-</div>
+<!-- Your title -->
+## Hi, I'm Mario Zahariev, a Python Developer and Technical Trainer from Bulgaria.
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zahariev-webbersof)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:webbersof@gmail.com)
+
+&nbsp;
+
+<!-- Talking about you -->
+**About me:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- :telescope: I love teaching on software engineering students as well as writing software 
+- 👨🏽‍💻 Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety);
+- 🌱 I am the founder of one of the largest fan groups dedicated to the Python programming language [Python Dev Society](https://www.facebook.com/PythonDevSociety); 
+- :zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
+- 📫 You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
+
+<br/><br/>
 
 <div id="badges" align="center">
   <a href="your-django-URL">
@@ -35,29 +58,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-
----
-
-### :woman_technologist: About Me :
-
-I am a Python Developer and Technical Trainer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
-
-:telescope: I love teaching on software engineering students as well as writing software .
-
-:seedling: Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety).
-
-:zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
-
-:mailbox:You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
-
----
+  
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahariev-webbersof&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahariev-webbersof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: My Facebook Page - Python Dev Society :
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/PythonDevSociety)
