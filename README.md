@@ -1,4 +1,3 @@
-<!-- Your title -->
 ## Hi, I'm Mario Zahariev, a Python Developer and Technical Trainer from Bulgaria.
 
 <!-- Your badges
