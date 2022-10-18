@@ -1,4 +1,4 @@
-## Hi, I'm Mario Zahariev, a Python Developer and Technical Trainer from Bulgaria.
+## Hi, I'm Mario Zahariev, a Python Developer and Technical Trainer from Bulgaria
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
