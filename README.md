@@ -1,65 +1,191 @@
-## Hi, I'm Mario Zahariev, a Python Developer and Technical Trainer from Bulgaria
+<h1 align="center">Hi 👋, I'm Mario Zahariev</h1>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<h3 align="center">
+Software Engineer • Technical Trainer at SoftUni • Entrepreneur • AI Researcher
+</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:webbersof@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=900&lines=Software+Engineer;Technical+Trainer+at+SoftUni;Python+Developer;Java+Developer;JavaScript+Developer;Swift+Developer;C%23+Developer;AI+Researcher;Microservices+%26+Cloud+Engineer" />
+</p>
 
-&nbsp;
+---
 
-<!-- Talking about you -->
-**About me:**
+# 👨‍💻 About Me
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🎓 Technical Trainer at **Software University (SoftUni)**
+- 🐍 Python Developer
+- ☕ Java Developer
+- ⚡ JavaScript Developer
+- 🍎 Swift Developer
+- 💜 C# Developer
+- 🤖 Artificial Intelligence Researcher
+- 🔐 Cybersecurity Enthusiast
+- 🚀 Founder of **Python Dev Society**
+- 💼 Software Engineer with experience in software architecture, backend development and cloud technologies
+- 📚 Author of technical and scientific publications
+- ❤️ Passionate about teaching, software engineering and innovation
 
-- :telescope: I love teaching on software engineering students as well as writing software 
-- 👨🏽‍💻 Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety);
-- 🌱 I am the founder of one of the largest fan groups dedicated to the Python programming language [Python Dev Society](https://www.facebook.com/PythonDevSociety); 
-- :zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
-- 📫 You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
+---
 
-<br/><br/>
+# 🎓 Teaching
 
-<div id="badges" align="center">
-  <a href="your-django-URL">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  </a>
-  
-  <a href="your-python-URL">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-  </a>
-  
-  <a href="your-javascript-URL">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
-  </a>
-  
-  <a href="your-kali-URL">
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
-  </a>
-  
-  <a href="your-github-URL">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  
-   <a href="your-linux-URL">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-  </a>
-  
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  
+As a **Technical Trainer at Software University (SoftUni)** I teach and create educational content related to:
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahariev-webbersof&theme=dark&background=000000)](https://git.io/streak-stats)
+- Python Programming
+- Object-Oriented Programming
+- Algorithms & Data Structures
+- Software Engineering
+- Software Architecture
+- REST APIs
+- Databases
+- Unit Testing
+- Design Patterns
+- Clean Code
+- Web Development
+- Backend Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahariev-webbersof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,swift,cs,cpp,bash"/>
+
+</p>
+
+---
+
+# 🚀 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet,docker,kubernetes,postgres,mysql,mongodb,redis,linux,git,github,aws,azure,vscode,pycharm"/>
+
+</p>
+
+---
+
+# 🏗️ Software Engineering
+
+✔ Microservices
+
+✔ REST APIs
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Software Architecture
+
+✔ Clean Code
+
+✔ CI/CD
+
+✔ Git
+
+✔ Linux
+
+✔ Cloud Computing
+
+✔ SQL & NoSQL Databases
+
+✔ Backend Development
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=zahariev-webbersof&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahariev-webbersof&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zahariev-webbersof&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahariev-webbersof&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Python Dev Society
+
+⭐ Finance API Hub
+
+⭐ Artificial Intelligence Projects
+
+⭐ Python Algorithms
+
+⭐ Flask Applications
+
+⭐ FastAPI Projects
+
+⭐ Django Applications
+
+---
+
+# 📚 Scientific Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Cybersecurity
+- Cloud Computing
+- Distributed Systems
+- Python Programming
+
+---
+
+# 🌍 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mario-zahariev-753a7b202/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:webbersof@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://mario-zahariev.com">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zahariev-webbersof&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thank you for visiting my GitHub profile ⭐
+
+</h3>
