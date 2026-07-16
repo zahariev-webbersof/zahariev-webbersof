@@ -7,7 +7,7 @@ Software Engineer • Technical Trainer at SoftUni • Entrepreneur • AI Resea
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=900&lines=Software+Engineer;Technical+Trainer+at+SoftUni;Python+Developer;Java+Developer;JavaScript+Developer;Swift+Developer;C%23+Developer;AI+Researcher;Microservices+%26+Cloud+Engineer" />
 </p>
-
+  
 ---
 
 # 👨‍💻 About Me
